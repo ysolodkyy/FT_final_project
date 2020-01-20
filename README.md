@@ -1,5 +1,4 @@
-# FT_project1
-Fourier Transform: Periodization of X(f) with Period F. Partial and Cesaro Sums of Fourier Series.
+# Fourier Transform: Periodization of X(f) with Period F. Partial and Cesaro Sums of Fourier Series.
 
 Problem 1:
 Implementing the FFT radix 2 algorithm using built in matlab fft()
